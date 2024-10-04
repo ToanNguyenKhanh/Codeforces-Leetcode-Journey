@@ -1,1 +1,1 @@
-# My own solution (it might suck)
+# My own codeforces solution (it might suck)
